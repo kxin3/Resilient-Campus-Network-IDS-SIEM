@@ -49,8 +49,7 @@ The system was built in **four main phases**:
  <img width="978" height="513" alt="image" src="https://github.com/user-attachments/assets/0fa2666e-0d6a-4189-84a3-f196a1eb1149" />
  <img width="940" height="598" alt="image" src="https://github.com/user-attachments/assets/7f30d58c-1735-4e51-8599-5e831cfba723" />
 <img width="940" height="460" alt="image" src="https://github.com/user-attachments/assets/1d9e1e93-6257-4616-a436-7935e0946fbc" />
-
-
+<img width="940" height="341" alt="image" src="https://github.com/user-attachments/assets/7d451b9a-09e0-403b-8bec-6089afb70d1a" />
 
 ---
 
